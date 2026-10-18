@@ -18,4 +18,4 @@ L'analyse demontre un chiffre d'affaires cumule de 45 EUR sur l'echantillon et e
 ### Appercu de la table clients
 ![Table clients](creation_table_client.png)
 ### Analyse concernant les clients premium
-![Analyse clients Premium](analyse_clints_premium.png)
+![Analyse clients Premium](analyse_clients_premium.png)
